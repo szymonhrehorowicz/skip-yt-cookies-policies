@@ -4,4 +4,4 @@ Web extension, that let's you auto accept cookies policies while entering youtub
 
 Very useful, when your browser does not save cookies.
 
-https://addons.mozilla.org/pl/firefox/addon/skip-yt-cookies-policies/
+https://addons.mozilla.org/pl/firefox/addon/skip-youtube-cookies-policies/
