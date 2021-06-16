@@ -1,7 +1,7 @@
 {
     "manifest_version": 2,
     "name": "skip-yt-cookies-policies",
-    "version": "0.1",
+    "version": "0.2",
 
     "description": "Auto accepts cookies policies on youtube.com",
 
