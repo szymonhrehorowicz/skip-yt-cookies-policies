@@ -12,7 +12,11 @@
     "content_scripts": [
         {
             "matches": ["https://consent.youtube.com/*"],
-            "js": ["/content_scripts.js"]
+            "js": ["/consent_yt.js"]
+        },
+        {
+            "matches": ["https://www.youtube.com/*"],
+            "js": ["/yt.js"]
         }
     ]
 }
