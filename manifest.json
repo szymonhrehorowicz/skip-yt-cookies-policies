@@ -17,6 +17,10 @@
         {
             "matches": ["https://www.youtube.com/*"],
             "js": ["/yt.js"]
+        },
+        {
+            "matches": ["https://consent.youtube.com/d?continue*"],
+            "js": ["/consent_yt_continue.js"]
         }
     ]
 }
